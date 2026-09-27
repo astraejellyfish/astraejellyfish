@@ -1,6 +1,6 @@
-˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍  
+## ˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍  
  　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.
-                  ## Welcome to astraejellyfish's space .𖥔 ݁ ˖ִ🛸༄˖°.
+   ## Welcome to astraejellyfish's space .𖥔 ݁ ˖ִ🛸༄˖°.
 
 ## ⚞`⎚⩊⎚´⚟ Goal: what's that?
 
