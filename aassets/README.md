@@ -7,7 +7,7 @@
 
 ## ⟡ side quests
 
-<img align="right" src="./aassets/kenma.gif" width="180" alt="Kenma GIF" />
+<img align="right" src="./aassetss/kenma.gif" width="180" alt="Kenma GIF" />
 
 - living / breathing
 - school
@@ -19,7 +19,7 @@
 - instagram: @starkururi
 
 <p align="center">
-  <img src="./aassets/katsuki.gif" width="180" alt="Katsuki GIF" />
+  <img src="./aassetss/katsuki.gif" width="180" alt="Katsuki GIF" />
 </p>
 
 ---
