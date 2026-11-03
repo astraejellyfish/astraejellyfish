@@ -7,22 +7,19 @@
 
 ## ⟡ side quests
 
-<img align="right" src="https://github.com/astraejellyfish/astraejellyfish/blob/main/aassets/assetss/kenma.gif" width="180" />
+<img align="right" src="https://github.com/astraejellyfish/astraejellyfish/blob/main/aassets/assetss/kenma.gif" width="160" />
 
 - living / breathing
 - school
 - learning fun stuffs
-
-
-
-
+<br> </br>
 ## Ი︵𐑼 connect with me:
 
 - discord: @astrae.jellyfish
 - instagram: @starkururi
 
 <p align="center">
-  <img src="https://github.com/astraejellyfish/astraejellyfish/blob/main/aassets/assetss/katsuki.gif"/>
+  <img src="https://github.com/astraejellyfish/astraejellyfish/blob/main/aassets/assetss/katsuki.gif" width="850"/>
 </p>
 
 ---
