@@ -13,13 +13,16 @@
 - school
 - learning fun stuffs
 
+
+
+
 ## Ი︵𐑼 connect with me:
 
 - discord: @astrae.jellyfish
 - instagram: @starkururi
 
 <p align="center">
-  <img src="./aassetss/katsuki.gif" width="180" alt="Katsuki GIF" />
+  <img src="https://github.com/astraejellyfish/astraejellyfish/blob/main/aassets/assetss/katsuki.gif"/>
 </p>
 
 ---
