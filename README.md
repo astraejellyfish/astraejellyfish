@@ -7,8 +7,7 @@
 
 ## ⟡ side quests
 
-<img align="right" src="./aassets/kenma.gif" width="180" alt="Kenma GIF" />
-
+<img align="right" src="https://raw.githubusercontent.com/astraejellyfish/astraejellyfish/main/aassets/kenma.gif" width="180" alt="Kenma" />
 - living / breathing
 - school
 - learning fun stuffs
