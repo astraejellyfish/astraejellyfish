@@ -7,7 +7,7 @@
 
 ## ⟡ side quests
 
-<img align="right" src="./aassetss/kenma.gif" width="180" alt="Kenma GIF" />
+<img align="right" src="./assets/kenma.gif" width="180" />
 
 - living / breathing
 - school
